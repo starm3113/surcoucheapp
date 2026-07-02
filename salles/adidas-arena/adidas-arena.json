@@ -1,0 +1,360 @@
+{
+  "id": "adidas-arena",
+  "nom": "Adidas Arena",
+  "blocs": {
+    "Bloc_1": {
+      "cx": 1230.0,
+      "cy": 803.5,
+      "type": "Bloc",
+      "label": "Bloc 1"
+    },
+    "Bloc_2": {
+      "cx": 1420.5,
+      "cy": 726.5,
+      "type": "Bloc",
+      "label": "Bloc 2"
+    },
+    "Bloc_3": {
+      "cx": 1420.5,
+      "cy": 878.5,
+      "type": "Bloc",
+      "label": "Bloc 3"
+    },
+    "Bloc_4": {
+      "cx": 1400.22,
+      "cy": 565.83,
+      "type": "Bloc",
+      "label": "Bloc 4"
+    },
+    "Bloc_5": {
+      "cx": 1399.49,
+      "cy": 1037.98,
+      "type": "Bloc",
+      "label": "Bloc 5"
+    },
+    "Bloc_6": {
+      "cx": 1259.43,
+      "cy": 482.0,
+      "type": "Bloc",
+      "label": "Bloc 6"
+    },
+    "Bloc_7": {
+      "cx": 1297.68,
+      "cy": 1133.73,
+      "type": "Bloc",
+      "label": "Bloc 7"
+    },
+    "Bloc_8": {
+      "cx": 904.5,
+      "cy": 482.0,
+      "type": "Bloc",
+      "label": "Bloc 8"
+    },
+    "Bloc_9": {
+      "cx": 1046.5,
+      "cy": 482.0,
+      "type": "Bloc",
+      "label": "Bloc 9"
+    },
+    "Bloc_10": {
+      "cx": 1050.5,
+      "cy": 287.5,
+      "type": "Bloc",
+      "label": "Bloc 10"
+    },
+    "Bloc_11": {
+      "cx": 1196.5,
+      "cy": 288.18,
+      "type": "Bloc",
+      "label": "Bloc 11"
+    },
+    "Bloc_12": {
+      "cx": 1319.17,
+      "cy": 329.18,
+      "type": "Bloc",
+      "label": "Bloc 12"
+    },
+    "Bloc_13": {
+      "cx": 1410.38,
+      "cy": 421.54,
+      "type": "Bloc",
+      "label": "Bloc 13"
+    },
+    "Bloc_14": {
+      "cx": 904.5,
+      "cy": 286.5,
+      "type": "Bloc",
+      "label": "Bloc 14"
+    },
+    "Bloc_15": {
+      "cx": 755.5,
+      "cy": 286.5,
+      "type": "Bloc",
+      "label": "Bloc 15"
+    },
+    "Bloc_16": {
+      "cx": 469.55,
+      "cy": 303.31,
+      "type": "Bloc",
+      "label": "Bloc 16"
+    },
+    "Bloc_17": {
+      "cx": 385.14,
+      "cy": 324.33,
+      "type": "Bloc",
+      "label": "Bloc 17"
+    },
+    "Bloc_18": {
+      "cx": 326.85,
+      "cy": 366.71,
+      "type": "Bloc",
+      "label": "Bloc 18"
+    },
+    "Bloc_19": {
+      "cx": 394.49,
+      "cy": 462.27,
+      "type": "Bloc",
+      "label": "Bloc 19"
+    },
+    "Bloc_20": {
+      "cx": 382.49,
+      "cy": 1148.64,
+      "type": "Bloc",
+      "label": "Bloc 20"
+    },
+    "Bloc_21": {
+      "cx": 318.58,
+      "cy": 487.74,
+      "type": "Bloc",
+      "label": "Bloc 21"
+    },
+    "Bloc_22": {
+      "cx": 314.44,
+      "cy": 1118.89,
+      "type": "Bloc",
+      "label": "Bloc 22"
+    },
+    "Bloc_23": {
+      "cx": 321.15,
+      "cy": 1242.95,
+      "type": "Bloc",
+      "label": "Bloc 23"
+    },
+    "Bloc_24": {
+      "cx": 498.33,
+      "cy": 1339.47,
+      "type": "Bloc",
+      "label": "Bloc 24"
+    },
+    "Bloc_25": {
+      "cx": 393.48,
+      "cy": 1306.25,
+      "type": "Bloc",
+      "label": "Bloc 25"
+    },
+    "Bloc_26": {
+      "cx": 293.39,
+      "cy": 564.84,
+      "type": "Bloc",
+      "label": "Bloc 26"
+    },
+    "Bloc_27": {
+      "cx": 292.39,
+      "cy": 1045.53,
+      "type": "Bloc",
+      "label": "Bloc 27"
+    },
+    "Bloc_28": {
+      "cx": 598.1,
+      "cy": 287.5,
+      "type": "Bloc",
+      "label": "Bloc 28"
+    },
+    "Bloc_29": {
+      "cx": 755.5,
+      "cy": 482.0,
+      "type": "Bloc",
+      "label": "Bloc 29"
+    },
+    "Bloc_30": {
+      "cx": 727.0,
+      "cy": 1081.5,
+      "type": "Bloc",
+      "label": "Bloc 30"
+    },
+    "Bloc_31": {
+      "cx": 904.0,
+      "cy": 1081.5,
+      "type": "Bloc",
+      "label": "Bloc 31"
+    },
+    "Bloc_32": {
+      "cx": 1052.5,
+      "cy": 1081.5,
+      "type": "Bloc",
+      "label": "Bloc 32"
+    },
+    "Bloc_33": {
+      "cx": 1148.0,
+      "cy": 1081.5,
+      "type": "Bloc",
+      "label": "Bloc 33"
+    },
+    "Bloc_34": {
+      "cx": 1080.0,
+      "cy": 1163.0,
+      "type": "Bloc",
+      "label": "Bloc 34"
+    },
+    "Bloc_35": {
+      "cx": 751.5,
+      "cy": 1226.0,
+      "type": "Bloc",
+      "label": "Bloc 35"
+    },
+    "Bloc_36": {
+      "cx": 523.02,
+      "cy": 1206.17,
+      "type": "Bloc",
+      "label": "Bloc 36"
+    },
+    "Bloc_37": {
+      "cx": 1072.0,
+      "cy": 1226.0,
+      "type": "Bloc",
+      "label": "Bloc 37"
+    },
+    "Bloc_38": {
+      "cx": 1335.3,
+      "cy": 1126.58,
+      "type": "Bloc",
+      "label": "Bloc 38"
+    },
+    "Bloc_39": {
+      "cx": 911.0,
+      "cy": 1226.0,
+      "type": "Bloc",
+      "label": "Bloc 39"
+    },
+    "Bloc_40": {
+      "cx": 1288.44,
+      "cy": 1313.95,
+      "type": "Bloc",
+      "label": "Bloc 40"
+    },
+    "Bloc_41": {
+      "cx": 1379.96,
+      "cy": 1241.35,
+      "type": "Bloc",
+      "label": "Bloc 41"
+    },
+    "Bloc_42": {
+      "cx": 727.0,
+      "cy": 1163.0,
+      "type": "Bloc",
+      "label": "Bloc 42"
+    },
+    "Bloc_43": {
+      "cx": 627.0,
+      "cy": 1341.5,
+      "type": "Bloc",
+      "label": "Bloc 43"
+    },
+    "Bloc_44": {
+      "cx": 769.0,
+      "cy": 1341.5,
+      "type": "Bloc",
+      "label": "Bloc 44"
+    },
+    "Bloc_45": {
+      "cx": 904.0,
+      "cy": 1341.5,
+      "type": "Bloc",
+      "label": "Bloc 45"
+    },
+    "Bloc_46": {
+      "cx": 1046.0,
+      "cy": 1343.5,
+      "type": "Bloc",
+      "label": "Bloc 46"
+    },
+    "Bloc_47": {
+      "cx": 1187.0,
+      "cy": 1340.99,
+      "type": "Bloc",
+      "label": "Bloc 47"
+    },
+    "Bloc_48": {
+      "cx": 436.5,
+      "cy": 832.5,
+      "type": "Bloc",
+      "label": "Bloc 48"
+    },
+    "Bloc_49": {
+      "cx": 286.5,
+      "cy": 686.5,
+      "type": "Bloc",
+      "label": "Bloc 49"
+    },
+    "Bloc_50": {
+      "cx": 286.5,
+      "cy": 917.5,
+      "type": "Bloc",
+      "label": "Bloc 50"
+    },
+    "Bloc_51": {
+      "cx": 436.5,
+      "cy": 988.5,
+      "type": "Bloc",
+      "label": "Bloc 51"
+    },
+    "Bloc_52": {
+      "cx": 255.5,
+      "cy": 867.5,
+      "type": "Bloc",
+      "label": "Bloc 52"
+    },
+    "Bloc_53": {
+      "cx": 583.43,
+      "cy": 1111.93,
+      "type": "Bloc",
+      "label": "Bloc 53"
+    },
+    "Bloc_54": {
+      "cx": 426.69,
+      "cy": 594.78,
+      "type": "Bloc",
+      "label": "Bloc 54"
+    },
+    "Bloc_55": {
+      "cx": 426.69,
+      "cy": 1008.22,
+      "type": "Bloc",
+      "label": "Bloc 55"
+    },
+    "Bloc_56": {
+      "cx": 467.39,
+      "cy": 514.58,
+      "type": "Bloc",
+      "label": "Bloc 56"
+    },
+    "Bloc_57": {
+      "cx": 477.55,
+      "cy": 1092.55,
+      "type": "Bloc",
+      "label": "Bloc 57"
+    },
+    "Bloc_58": {
+      "cx": 592.02,
+      "cy": 482.0,
+      "type": "Bloc",
+      "label": "Bloc 58"
+    },
+    "Bloc_59": {
+      "cx": 777.5,
+      "cy": 800.5,
+      "type": "Bloc",
+      "label": "Bloc 59"
+    }
+  }
+}

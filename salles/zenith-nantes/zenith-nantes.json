@@ -1,0 +1,198 @@
+{
+  "id": "zenith-nantes",
+  "nom": "Z\u00e9nith de Nantes",
+  "blocs": {
+    "Bloc_1": {
+      "cx": 48.13,
+      "cy": 54.04,
+      "type": "Bloc",
+      "label": "Bloc 1"
+    },
+    "Bloc_2": {
+      "cx": 31.0,
+      "cy": 24.17,
+      "type": "Bloc",
+      "label": "Bloc 2"
+    },
+    "Bloc_3": {
+      "cx": 46.82,
+      "cy": 39.98,
+      "type": "Bloc",
+      "label": "Bloc 3"
+    },
+    "Bloc_4": {
+      "cx": 266.07,
+      "cy": 103.25,
+      "type": "Bloc",
+      "label": "Bloc 4"
+    },
+    "Bloc_5": {
+      "cx": 37.37,
+      "cy": 24.28,
+      "type": "Bloc",
+      "label": "Bloc 5"
+    },
+    "Bloc_6": {
+      "cx": 644.39,
+      "cy": 389.88,
+      "type": "Bloc",
+      "label": "Bloc 6"
+    },
+    "Bloc_7": {
+      "cx": 37.37,
+      "cy": 47.78,
+      "type": "Bloc",
+      "label": "Bloc 7"
+    },
+    "Bloc_8": {
+      "cx": 672.2,
+      "cy": 515.13,
+      "type": "Bloc",
+      "label": "Bloc 8"
+    },
+    "Bloc_9": {
+      "cx": 37.57,
+      "cy": 24.61,
+      "type": "Bloc",
+      "label": "Bloc 9"
+    },
+    "Bloc_10": {
+      "cx": 502.85,
+      "cy": 434.23,
+      "type": "Bloc",
+      "label": "Bloc 10"
+    },
+    "Bloc_11": {
+      "cx": 48.08,
+      "cy": 51.13,
+      "type": "Bloc",
+      "label": "Bloc 11"
+    },
+    "Bloc_12": {
+      "cx": 538.04,
+      "cy": 569.69,
+      "type": "Bloc",
+      "label": "Bloc 12"
+    },
+    "Bloc_13": {
+      "cx": 37.65,
+      "cy": 24.87,
+      "type": "Bloc",
+      "label": "Bloc 13"
+    },
+    "Bloc_14": {
+      "cx": 381.47,
+      "cy": 507.37,
+      "type": "Bloc",
+      "label": "Bloc 14"
+    },
+    "Bloc_15": {
+      "cx": 44.69,
+      "cy": 51.29,
+      "type": "Bloc",
+      "label": "Bloc 15"
+    },
+    "Bloc_16": {
+      "cx": 419.02,
+      "cy": 631.45,
+      "type": "Bloc",
+      "label": "Bloc 16"
+    },
+    "Bloc_17": {
+      "cx": 37.68,
+      "cy": 25.19,
+      "type": "Bloc",
+      "label": "Bloc 17"
+    },
+    "Bloc_18": {
+      "cx": 259.33,
+      "cy": 622.45,
+      "type": "Bloc",
+      "label": "Bloc 18"
+    },
+    "Bloc_19": {
+      "cx": 45.33,
+      "cy": 53.85,
+      "type": "Bloc",
+      "label": "Bloc 19"
+    },
+    "Bloc_20": {
+      "cx": 309.23,
+      "cy": 728.85,
+      "type": "Bloc",
+      "label": "Bloc 20"
+    },
+    "Bloc_21": {
+      "cx": 47.82,
+      "cy": 54.14,
+      "type": "Bloc",
+      "label": "Bloc 21"
+    },
+    "Bloc_22": {
+      "cx": 682.64,
+      "cy": 281.82,
+      "type": "Bloc",
+      "label": "Bloc 22"
+    },
+    "Bloc_23": {
+      "cx": 45.45,
+      "cy": 54.22,
+      "type": "Bloc",
+      "label": "Bloc 23"
+    },
+    "Bloc_24": {
+      "cx": 568.7,
+      "cy": 298.47,
+      "type": "Bloc",
+      "label": "Bloc 24"
+    },
+    "Bloc_25": {
+      "cx": 45.57,
+      "cy": 54.41,
+      "type": "Bloc",
+      "label": "Bloc 25"
+    },
+    "Bloc_26": {
+      "cx": 456.88,
+      "cy": 337.34,
+      "type": "Bloc",
+      "label": "Bloc 26"
+    },
+    "Bloc_27": {
+      "cx": 45.68,
+      "cy": 54.71,
+      "type": "Bloc",
+      "label": "Bloc 27"
+    },
+    "Bloc_28": {
+      "cx": 349.66,
+      "cy": 404.1,
+      "type": "Bloc",
+      "label": "Bloc 28"
+    },
+    "Bloc_29": {
+      "cx": 45.72,
+      "cy": 54.97,
+      "type": "Bloc",
+      "label": "Bloc 29"
+    },
+    "Bloc_30": {
+      "cx": 255.94,
+      "cy": 482.58,
+      "type": "Bloc",
+      "label": "Bloc 30"
+    },
+    "Bloc_31": {
+      "cx": 45.72,
+      "cy": 55.05,
+      "type": "Bloc",
+      "label": "Bloc 31"
+    },
+    "Bloc_32": {
+      "cx": 178.3,
+      "cy": 562.55,
+      "type": "Bloc",
+      "label": "Bloc 32"
+    }
+  }
+}
