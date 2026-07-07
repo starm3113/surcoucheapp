@@ -1,75 +1,6 @@
 {
   "id": "accor-arena",
   "nom": "Accor Arena",
-  "defaultGradAngles": {
-    "Bloc_2": 0,
-    "Bloc_30": 0,
-    "Bloc_31": 0,
-    "Bloc_32": 0,
-    "Bloc_33": 0,
-    "Bloc_48": 0,
-    "Bloc_49": 0,
-    "Bloc_56": 0,
-    "Bloc_57": 0,
-    "Bloc_62": 0,
-    "Bloc_63": 0,
-    "Bloc_3": 90,
-    "Bloc_4": 90,
-    "Bloc_5": 90,
-    "Bloc_6": 90,
-    "Bloc_7": 90,
-    "Bloc_8": 90,
-    "Bloc_9": 90,
-    "Bloc_10": 90,
-    "Bloc_11": 90,
-    "Bloc_12": 90,
-    "Bloc_13": 90,
-    "Bloc_14": 90,
-    "Bloc_15": 90,
-    "Bloc_16": 90,
-    "Bloc_17": 90,
-    "Bloc_34": 90,
-    "Bloc_35": 90,
-    "Bloc_36": 90,
-    "Bloc_37": 90,
-    "Bloc_38": 90,
-    "Bloc_39": 90,
-    "Bloc_40": 90,
-    "Bloc_41": 90,
-    "Bloc_42": 90,
-    "Bloc_43": 90,
-    "Bloc_44": 90,
-    "Bloc_45": 90,
-    "Bloc_52": 90,
-    "Bloc_53": 90,
-    "Bloc_66": 90,
-    "Bloc_67": 90,
-    "Bloc_68": 90,
-    "Bloc_18": 45,
-    "Bloc_22": 45,
-    "Bloc_26": 45,
-    "Bloc_46": 45,
-    "Bloc_54": 45,
-    "Bloc_60": 45,
-    "Bloc_19": 135,
-    "Bloc_23": 135,
-    "Bloc_27": 135,
-    "Bloc_47": 135,
-    "Bloc_55": 135,
-    "Bloc_61": 135,
-    "Bloc_21": 225,
-    "Bloc_25": 225,
-    "Bloc_29": 225,
-    "Bloc_51": 225,
-    "Bloc_59": 225,
-    "Bloc_65": 225,
-    "Bloc_20": 315,
-    "Bloc_24": 315,
-    "Bloc_28": 315,
-    "Bloc_50": 315,
-    "Bloc_58": 315,
-    "Bloc_64": 315
-  },
   "blocs": {
     "Bloc_1": {
       "cx": 1160.44,
@@ -81,403 +12,470 @@
       "cx": 796.63,
       "cy": 805.15,
       "type": "Bloc",
-      "label": "Bloc 2"
+      "label": "Bloc 2",
+      "defaultAngle": 0
     },
     "Bloc_3": {
       "cx": 1018.55,
       "cy": 507.63,
       "type": "Bloc",
-      "label": "Bloc 3"
+      "label": "Bloc 3",
+      "defaultAngle": 90
     },
     "Bloc_4": {
       "cx": 1021.5,
       "cy": 1032.96,
       "type": "Bloc",
-      "label": "Bloc 4"
+      "label": "Bloc 4",
+      "defaultAngle": 90
     },
     "Bloc_5": {
       "cx": 1018.55,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 5"
+      "label": "Bloc 5",
+      "defaultAngle": 90
     },
     "Bloc_6": {
       "cx": 1020.52,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 6"
+      "label": "Bloc 6",
+      "defaultAngle": 90
     },
     "Bloc_7": {
       "cx": 1121.65,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 7"
+      "label": "Bloc 7",
+      "defaultAngle": 90
     },
     "Bloc_8": {
       "cx": 1124.6,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 8"
+      "label": "Bloc 8",
+      "defaultAngle": 90
     },
     "Bloc_9": {
       "cx": 915.45,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 9"
+      "label": "Bloc 9",
+      "defaultAngle": 90
     },
     "Bloc_10": {
       "cx": 915.45,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 10"
+      "label": "Bloc 10",
+      "defaultAngle": 90
     },
     "Bloc_11": {
       "cx": 812.35,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 11"
+      "label": "Bloc 11",
+      "defaultAngle": 90
     },
     "Bloc_12": {
       "cx": 812.35,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 12"
+      "label": "Bloc 12",
+      "defaultAngle": 90
     },
     "Bloc_13": {
       "cx": 709.24,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 13"
+      "label": "Bloc 13",
+      "defaultAngle": 90
     },
     "Bloc_14": {
       "cx": 709.24,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 14"
+      "label": "Bloc 14",
+      "defaultAngle": 90
     },
     "Bloc_15": {
       "cx": 606.14,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 15"
+      "label": "Bloc 15",
+      "defaultAngle": 90
     },
     "Bloc_16": {
       "cx": 606.14,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 16"
+      "label": "Bloc 16",
+      "defaultAngle": 90
     },
     "Bloc_17": {
       "cx": 503.04,
       "cy": 304.86,
       "type": "Bloc",
-      "label": "Bloc 17"
+      "label": "Bloc 17",
+      "defaultAngle": 90
     },
     "Bloc_18": {
       "cx": 331.51,
       "cy": 375.27,
       "type": "Bloc",
-      "label": "Bloc 18"
+      "label": "Bloc 18",
+      "defaultAngle": 45
     },
     "Bloc_19": {
       "cx": 1291.82,
       "cy": 373.34,
       "type": "Bloc",
-      "label": "Bloc 19"
+      "label": "Bloc 19",
+      "defaultAngle": 135
     },
     "Bloc_20": {
       "cx": 331.51,
       "cy": 1227.18,
       "type": "Bloc",
-      "label": "Bloc 20"
+      "label": "Bloc 20",
+      "defaultAngle": 315
     },
     "Bloc_21": {
       "cx": 1291.82,
       "cy": 1225.26,
       "type": "Bloc",
-      "label": "Bloc 21"
+      "label": "Bloc 21",
+      "defaultAngle": 225
     },
     "Bloc_22": {
       "cx": 256.86,
       "cy": 451.89,
       "type": "Bloc",
-      "label": "Bloc 22"
+      "label": "Bloc 22",
+      "defaultAngle": 45
     },
     "Bloc_23": {
       "cx": 1366.47,
       "cy": 449.96,
       "type": "Bloc",
-      "label": "Bloc 23"
+      "label": "Bloc 23",
+      "defaultAngle": 135
     },
     "Bloc_24": {
       "cx": 256.87,
       "cy": 1150.55,
       "type": "Bloc",
-      "label": "Bloc 24"
+      "label": "Bloc 24",
+      "defaultAngle": 315
     },
     "Bloc_25": {
       "cx": 1366.47,
       "cy": 1148.62,
       "type": "Bloc",
-      "label": "Bloc 25"
+      "label": "Bloc 25",
+      "defaultAngle": 225
     },
     "Bloc_26": {
       "cx": 182.24,
       "cy": 527.5,
       "type": "Bloc",
-      "label": "Bloc 26"
+      "label": "Bloc 26",
+      "defaultAngle": 45
     },
     "Bloc_27": {
       "cx": 1441.09,
       "cy": 525.57,
       "type": "Bloc",
-      "label": "Bloc 27"
+      "label": "Bloc 27",
+      "defaultAngle": 135
     },
     "Bloc_28": {
       "cx": 182.24,
       "cy": 1074.95,
       "type": "Bloc",
-      "label": "Bloc 28"
+      "label": "Bloc 28",
+      "defaultAngle": 315
     },
     "Bloc_29": {
       "cx": 1441.09,
       "cy": 1073.02,
       "type": "Bloc",
-      "label": "Bloc 29"
+      "label": "Bloc 29",
+      "defaultAngle": 225
     },
     "Bloc_30": {
       "cx": 121.4,
       "cy": 611.09,
       "type": "Bloc",
-      "label": "Bloc 30"
+      "label": "Bloc 30",
+      "defaultAngle": 0
     },
     "Bloc_31": {
       "cx": 1501.93,
       "cy": 609.16,
       "type": "Bloc",
-      "label": "Bloc 31"
+      "label": "Bloc 31",
+      "defaultAngle": 0
     },
     "Bloc_32": {
       "cx": 121.4,
       "cy": 991.36,
       "type": "Bloc",
-      "label": "Bloc 32"
+      "label": "Bloc 32",
+      "defaultAngle": 0
     },
     "Bloc_33": {
       "cx": 1501.93,
       "cy": 989.43,
       "type": "Bloc",
-      "label": "Bloc 33"
+      "label": "Bloc 33",
+      "defaultAngle": 0
     },
     "Bloc_34": {
       "cx": 497.15,
       "cy": 1290.72,
       "type": "Bloc",
-      "label": "Bloc 34"
+      "label": "Bloc 34",
+      "defaultAngle": 90
     },
     "Bloc_35": {
       "cx": 410.34,
       "cy": 289.4,
       "type": "Bloc",
-      "label": "Bloc 35"
+      "label": "Bloc 35",
+      "defaultAngle": 90
     },
     "Bloc_36": {
       "cx": 410.34,
       "cy": 1306.18,
       "type": "Bloc",
-      "label": "Bloc 36"
+      "label": "Bloc 36",
+      "defaultAngle": 90
     },
     "Bloc_37": {
       "cx": 1213.76,
       "cy": 292.34,
       "type": "Bloc",
-      "label": "Bloc 37"
+      "label": "Bloc 37",
+      "defaultAngle": 90
     },
     "Bloc_38": {
       "cx": 1213.86,
       "cy": 1306.18,
       "type": "Bloc",
-      "label": "Bloc 38"
+      "label": "Bloc 38",
+      "defaultAngle": 90
     },
     "Bloc_39": {
       "cx": 915.45,
       "cy": 507.63,
       "type": "Bloc",
-      "label": "Bloc 39"
+      "label": "Bloc 39",
+      "defaultAngle": 90
     },
     "Bloc_40": {
       "cx": 915.45,
       "cy": 1032.96,
       "type": "Bloc",
-      "label": "Bloc 40"
+      "label": "Bloc 40",
+      "defaultAngle": 90
     },
     "Bloc_41": {
       "cx": 812.35,
       "cy": 507.63,
       "type": "Bloc",
-      "label": "Bloc 41"
+      "label": "Bloc 41",
+      "defaultAngle": 90
     },
     "Bloc_42": {
       "cx": 809.4,
       "cy": 1032.96,
       "type": "Bloc",
-      "label": "Bloc 42"
+      "label": "Bloc 42",
+      "defaultAngle": 90
     },
     "Bloc_43": {
       "cx": 709.24,
       "cy": 507.63,
       "type": "Bloc",
-      "label": "Bloc 43"
+      "label": "Bloc 43",
+      "defaultAngle": 90
     },
     "Bloc_44": {
       "cx": 703.35,
       "cy": 1032.96,
       "type": "Bloc",
-      "label": "Bloc 44"
+      "label": "Bloc 44",
+      "defaultAngle": 90
     },
     "Bloc_45": {
       "cx": 606.14,
       "cy": 507.63,
       "type": "Bloc",
-      "label": "Bloc 45"
+      "label": "Bloc 45",
+      "defaultAngle": 90
     },
     "Bloc_46": {
       "cx": 390.71,
       "cy": 587.29,
       "type": "Bloc",
-      "label": "Bloc 46"
+      "label": "Bloc 46",
+      "defaultAngle": 45
     },
     "Bloc_47": {
       "cx": 1266.1,
       "cy": 549.31,
       "type": "Bloc",
-      "label": "Bloc 47"
+      "label": "Bloc 47",
+      "defaultAngle": 135
     },
     "Bloc_48": {
       "cx": 299.53,
       "cy": 801.24,
       "type": "Bloc",
-      "label": "Bloc 48"
+      "label": "Bloc 48",
+      "defaultAngle": 0
     },
     "Bloc_49": {
       "cx": 1382.36,
       "cy": 802.2,
       "type": "Bloc",
-      "label": "Bloc 49"
+      "label": "Bloc 49",
+      "defaultAngle": 0
     },
     "Bloc_50": {
       "cx": 390.71,
       "cy": 1012.67,
       "type": "Bloc",
-      "label": "Bloc 50"
+      "label": "Bloc 50",
+      "defaultAngle": 315
     },
     "Bloc_51": {
       "cx": 1265.37,
       "cy": 1050.07,
       "type": "Bloc",
-      "label": "Bloc 51"
+      "label": "Bloc 51",
+      "defaultAngle": 225
     },
     "Bloc_52": {
       "cx": 597.3,
       "cy": 1032.96,
       "type": "Bloc",
-      "label": "Bloc 52"
+      "label": "Bloc 52",
+      "defaultAngle": 90
     },
     "Bloc_53": {
       "cx": 493.01,
       "cy": 508.12,
       "type": "Bloc",
-      "label": "Bloc 53"
+      "label": "Bloc 53",
+      "defaultAngle": 90
     },
     "Bloc_54": {
       "cx": 439.36,
       "cy": 508.41,
       "type": "Bloc",
-      "label": "Bloc 54"
+      "label": "Bloc 54",
+      "defaultAngle": 45
     },
     "Bloc_55": {
       "cx": 1198.7,
       "cy": 490.85,
       "type": "Bloc",
-      "label": "Bloc 55"
+      "label": "Bloc 55",
+      "defaultAngle": 135
     },
     "Bloc_56": {
       "cx": 307.39,
       "cy": 694.37,
       "type": "Bloc",
-      "label": "Bloc 56"
+      "label": "Bloc 56",
+      "defaultAngle": 0
     },
     "Bloc_57": {
       "cx": 1378.43,
       "cy": 693.69,
       "type": "Bloc",
-      "label": "Bloc 57"
+      "label": "Bloc 57",
+      "defaultAngle": 0
     },
     "Bloc_58": {
       "cx": 439.36,
       "cy": 1091.52,
       "type": "Bloc",
-      "label": "Bloc 58"
+      "label": "Bloc 58",
+      "defaultAngle": 315
     },
     "Bloc_59": {
       "cx": 1199.8,
       "cy": 1115.2,
       "type": "Bloc",
-      "label": "Bloc 59"
+      "label": "Bloc 59",
+      "defaultAngle": 225
     },
     "Bloc_60": {
       "cx": 311.43,
       "cy": 634.92,
       "type": "Bloc",
-      "label": "Bloc 60"
+      "label": "Bloc 60",
+      "defaultAngle": 45
     },
     "Bloc_61": {
       "cx": 1346.02,
       "cy": 611.27,
       "type": "Bloc",
-      "label": "Bloc 61"
+      "label": "Bloc 61",
+      "defaultAngle": 135
     },
     "Bloc_62": {
       "cx": 305.75,
       "cy": 910.09,
       "type": "Bloc",
-      "label": "Bloc 62"
+      "label": "Bloc 62",
+      "defaultAngle": 0
     },
     "Bloc_63": {
       "cx": 1379.41,
       "cy": 910.95,
       "type": "Bloc",
-      "label": "Bloc 63"
+      "label": "Bloc 63",
+      "defaultAngle": 0
     },
     "Bloc_64": {
       "cx": 312.41,
       "cy": 967.01,
       "type": "Bloc",
-      "label": "Bloc 64"
+      "label": "Bloc 64",
+      "defaultAngle": 315
     },
     "Bloc_65": {
       "cx": 1344.56,
       "cy": 990.73,
       "type": "Bloc",
-      "label": "Bloc 65"
+      "label": "Bloc 65",
+      "defaultAngle": 225
     },
     "Bloc_66": {
       "cx": 493.28,
       "cy": 1098.75,
       "type": "Bloc",
-      "label": "Bloc 66"
+      "label": "Bloc 66",
+      "defaultAngle": 90
     },
     "Bloc_67": {
       "cx": 1131.59,
       "cy": 469.58,
       "type": "Bloc",
-      "label": "Bloc 67"
+      "label": "Bloc 67",
+      "defaultAngle": 90
     },
     "Bloc_68": {
       "cx": 1132.66,
       "cy": 1131.41,
       "type": "Bloc",
-      "label": "Bloc 68"
+      "label": "Bloc 68",
+      "defaultAngle": 90
     }
   }
 }
