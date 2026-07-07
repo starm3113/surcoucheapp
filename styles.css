@@ -969,8 +969,8 @@ header {
 
 .seat-bloc.msel rect:not([stroke="white"]),
 .seat-bloc.msel path:not([stroke="white"]) {
-  stroke: var(--accent) !important;
-  stroke-width: 5px
+  stroke: #FF2B84 !important;
+  stroke-width: 8px
 }
 
 #orgaPane {
